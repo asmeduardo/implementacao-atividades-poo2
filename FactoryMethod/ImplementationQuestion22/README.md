@@ -1,0 +1,3 @@
+Questão 22 - Escreva um programa que conte até 10 e envie os números para uma ferramenta de log. Esta ferramenta de log deve ser construída por uma fábrica. Utilize Factory Method para permitir a escolha entre dois tipos de log: em arquivo (log.txt) ou diretamente no console. A escolha deve ser por um parâmetro passado ao programa (“arquivo” ou “console”).
+
+Question 22 - Write a program that counts to 10 and sends the numbers to a logging tool. This logging tool must be built by a factory. Use Factory Method to allow the choice between two types of log: in a file (log.txt) or directly in the console. The choice must be made by a parameter passed to the program (“file” or “console”).
